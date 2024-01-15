@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Iphone 11 phone ",
+    "price": 899.99,
+    "description": "An advanced smartphone with cutting-edge features.",
+    "rating": 9.5,
+    "images": [
+      {
+        "product_id": "image1",
+        "url": "https://example.com/image1.jpg"
+      },
+      {
+        "product_id": "image2",
+        "url": "https://example.com/image2.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "sellar": "bilour plaza",
+    "stock": 50,
+    "numOfReviews": 55,
+    "reviews": [
+      {
+        "name": "ali khan",
+        "rating": 5.0,
+        "comment": "Great product, fast delivery!"
+      },
+      {
+        "name": "shahid",
+        "rating": 5.0,
+        "comment": "Excellent quality and performance."
+      }
+    ]
+  },
+  {
+    "name": "Samsung s23 ultra",
+    "price": 349.99,
+    "description": "A state-of-the-art smartphone with innovative features.",
+    "rating": 5.8,
+    "images": [
+      {
+        "product_id": "image3",
+        "url": "https://example.com/image3.jpg"
+      },
+      {
+        "product_id": "image4",
+        "url": "https://example.com/image4.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "sellar": "mobilezone",
+    "stock": 60,
+    "numOfReviews": 50,
+    "reviews": [
+      {
+        "name": "Aitizaz alam",
+        "rating": 4.5,
+        "comment": "Impressive features, sleek design."
+      },
+      {
+        "name": "mohid alam",
+        "rating": 5.0,
+        "comment": "Fast and reliable performance, highly recommend!"
+      }
+    ]
+  },
+  {
+    "name": "laptop hp ",
+    "price": 579.99,
+    "description": "A cutting-edge laptop with advanced features.",
+    "rating": 4.6,
+    "images": [
+      {
+        "product_id": "image5",
+        "url": "https://example.com/image5.jpg"
+      },
+      {
+        "product_id": "image6",
+        "url": "https://example.com/image6.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "sellar": "nihartech",
+    "stock": 95,
+    "numOfReviews": 22,
+    "reviews": [
+      {
+        "name": "mama g",
+        "rating": 4.8,
+        "comment": "Fantastic device, great value for money!"
+      },
+      {
+        "name": "Sudais",
+        "rating": 4.5,
+        "comment": "Sleek design and powerful performance."
+      }
+    ]
+  },
+  {
+    "name": "ipad mini 5",
+    "price": 349.99,
+    "description": "An innovative smartpad with top-notch features.",
+    "rating": 4.9,
+    "images": [
+      {
+        "product_id": "image7",
+        "url": "https://example.com/image7.jpg"
+      },
+      {
+        "product_id": "image8",
+        "url": "https://example.com/image8.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "sellar": "tariqtraders",
+    "stock": 85,
+    "numOfReviews": 28,
+    "reviews": [
+      {
+        "name": "nangiayal",
+        "rating": 5.0,
+        "comment": "Absolutely amazing, exceeded my expectations!"
+      },
+      {
+        "name": "hanan",
+        "rating": 4.8,
+        "comment": "Sleek design and outstanding camera quality."
+      }
+    ]
+  }
+]
